@@ -1,0 +1,17 @@
+h1 {
+  color: aqua;
+}
+.first-class {
+  text-decoration: underline;
+  text-align: center;
+}
+#first-id {
+  background-color: black;
+  width: 500px;
+}
+body {
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
